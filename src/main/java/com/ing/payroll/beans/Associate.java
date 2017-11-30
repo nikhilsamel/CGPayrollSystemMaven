@@ -1,7 +1,6 @@
 package com.ing.payroll.beans;
 
 public class Associate {
-	//abcd
 	private int associateID,yearlyInvestmentUnder80C;
 	private String firstName,lastName,department,designation,pancard,emailId;
 	private Salary salary;
